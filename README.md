@@ -19,7 +19,7 @@
 
 ## About
 
-Inbox Zero is an open-source email app whose goal is to help you reach inbox zero fast with AI assistance.
+Inbox Zero is an open-source email app whose goal is to help you reach inbox zero fast with AI assistance. 
 
 ## Demo Video
 
